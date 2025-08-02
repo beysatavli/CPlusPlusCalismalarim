@@ -1,2 +1,3 @@
-# CPlusPlusCalismalarim
-Burada C++ öğrenmek için yaptığım çalışmalar olacak.
+# C++ Çalışmalarım
+# Burada kendi gelişimimi görmek için yazdığım kodları paylaşacağım.
+
