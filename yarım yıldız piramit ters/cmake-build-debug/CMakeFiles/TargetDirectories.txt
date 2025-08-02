@@ -1,0 +1,3 @@
+/Users/beyzatavli/CLionProjects/yarım yıldız piramit/cmake-build-debug/CMakeFiles/yarm_yldz_piramit.dir
+/Users/beyzatavli/CLionProjects/yarım yıldız piramit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/beyzatavli/CLionProjects/yarım yıldız piramit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
